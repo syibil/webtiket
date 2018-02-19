@@ -36,8 +36,6 @@
 						<ul id="menu">
 							<li><a href="<?php echo site_url('welcome/index');?>">Home</a></li>
 							<li id="menu_active"><a href="index-1.html">Booking</a></li>
-							<li><a href="<?php echo site_url('welcome/index2');?>">Safety</a></li>
-							<li><a href="<?php echo site_url('welcome/index3');?>">Charters</a></li>
 							<li><a href="<?php echo site_url('welcome/index4');?>">Contacts</a></li>
 						</ul>
 					</nav>
